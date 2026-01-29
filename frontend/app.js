@@ -1,4 +1,4 @@
-const API_URL = "https://stock-watchlist-gilt.vercel.app/";
+const API_URL = "https://stock-watchlist-fe1z.onrender.com";
 
 const symbolInput = document.getElementById("symbol-input");
 const addBtn = document.getElementById("add-btn");
