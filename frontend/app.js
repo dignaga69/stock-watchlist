@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000";
+const API_URL = "https://stock-watchlist-gilt.vercel.app/";
 
 const symbolInput = document.getElementById("symbol-input");
 const addBtn = document.getElementById("add-btn");
